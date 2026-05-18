@@ -148,3 +148,7 @@ research/tests.py        Focused test suite
 - Heuristic mode is a fallback, not a replacement for LLM synthesis.
 - GitHub support is limited to public HTTPS repositories.
 - No authentication or multi-user isolation is included because the task does not require it.
+
+##### misc
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.Public_MotionJPEG_Sources)
+
