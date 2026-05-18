@@ -150,5 +150,5 @@ research/tests.py        Focused test suite
 - No authentication or multi-user isolation is included because the task does not require it.
 
 ##### misc
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.Public_MotionJPEG_Sources)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.ai_agent)
 
